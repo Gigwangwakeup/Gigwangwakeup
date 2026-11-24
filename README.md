@@ -53,5 +53,8 @@ FPGA 연구원으로 2년 7개월 동안 전력설비 부분방전(PD) 진단 �
 같이 이야기 나누고 싶으시면 메일 주세요.
 
 - Email: lmop624@naver.com
-<!-- 포트폴리오 사이트를 GitHub Pages에 올린 뒤 아래 줄의 주석을 풀 것 -->
-<!-- - Portfolio: https://gigwangwakeup.github.io -->
+- Portfolio: https://gigwangwakeup.github.io
+
+---
+
+<sub>최종 업데이트: 2026-11-24</sub>
